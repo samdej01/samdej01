@@ -17,4 +17,4 @@ I’m **Samia**, a Computer Science graduate who loves building things with tech
 
 ---
 
-✨ Thanks for stopping by — feel free to explore my repositories!
+✨ Thanks for stopping by!
